@@ -10,3 +10,4 @@ __pycache__
 *.zip
 *.rar
 *.7z
+*.npy
