@@ -1,0 +1,12 @@
+
+__pycache__
+*.csv
+*.pth
+*.pkl
+*.pt
+*.pth.tar
+*.tar
+*.gz
+*.zip
+*.rar
+*.7z
